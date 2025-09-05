@@ -1,4 +1,19 @@
 body{
-    background-color: rgb(8, 119, 32);
+    background-color: rgb(19, 20, 19);
     display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+
+}
+
+button {
+    background-color: rgb(60, 99, 22);
+    color: rgba(230, 232, 232, 0);
+    font-family: "Bai Jamjuree", sans-serif;
+}
+
+.passo {
+    display: none;
 }
